@@ -1,0 +1,25 @@
+CSS Flexbox
+
+One-dimensional layout model.
+Best for single-row or single-column layouts.
+Ideal for aligning items within a container.
+Great for responsive design within a single row or column.
+Suitable for nesting flex containers for intricate layouts.
+Good browser support, even in older browsers.
+
+
+CSS Grid
+
+Two-dimensional layout model.
+Perfect for complex grid-based layouts with rows and columns.
+Provides precise control for both horizontal and vertical alignment.
+Supports complex responsive layouts, adapting grid based on viewport width.
+Allows for nesting grids for advanced structures.
+Growing browser support, may need prefixes in older browsers.
+
+
+Conclusion: 
+"In summary, Flexbox is great for simpler, one-dimensional layouts, while Grid excels in creating complex, two-dimensional grid structures. In practice, they can be used together to achieve versatile and responsive web designs."
+
+
+Blog Time: https://css-tricks.com/quick-whats-the-difference-between-flexbox-and-grid/
